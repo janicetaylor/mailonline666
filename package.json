@@ -1,0 +1,22 @@
+{
+  "name": "mailonline666",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janicetaylor/mailonline666.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janicetaylor/mailonline666/issues"
+  },
+  "homepage": "https://github.com/janicetaylor/mailonline666#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
